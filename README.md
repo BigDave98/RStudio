@@ -1,2 +1,2 @@
 # RStudio
-Projetos e trabalhos feitos utilizando a ferramenta RSTudio
+Projetos e trabalhos, da matéria Pacotes, feitos utilizando a ferramenta RSTudio 
