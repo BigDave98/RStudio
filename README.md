@@ -1,3 +1,2 @@
 # RStudio
-Projetos e trabalhos feitos utilizando a ferramenta RSTudio durante o curso de graduação em Estatistica na UFMG
-
+Projetos e trabalhos feitos, durante a materia Est não parametrica, utilizando a ferramenta RSTudio
